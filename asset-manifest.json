@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/APC_Landing/static/css/main.ba071ee4.chunk.css",
+    "main.js": "/APC_Landing/static/js/main.1fbaaa1e.chunk.js",
+    "main.js.map": "/APC_Landing/static/js/main.1fbaaa1e.chunk.js.map",
+    "runtime-main.js": "/APC_Landing/static/js/runtime-main.cd98efd9.js",
+    "runtime-main.js.map": "/APC_Landing/static/js/runtime-main.cd98efd9.js.map",
+    "static/js/2.69f0daa1.chunk.js": "/APC_Landing/static/js/2.69f0daa1.chunk.js",
+    "static/js/2.69f0daa1.chunk.js.map": "/APC_Landing/static/js/2.69f0daa1.chunk.js.map",
+    "static/js/3.c2117b6a.chunk.js": "/APC_Landing/static/js/3.c2117b6a.chunk.js",
+    "static/js/3.c2117b6a.chunk.js.map": "/APC_Landing/static/js/3.c2117b6a.chunk.js.map",
+    "index.html": "/APC_Landing/index.html",
+    "static/css/main.ba071ee4.chunk.css.map": "/APC_Landing/static/css/main.ba071ee4.chunk.css.map",
+    "static/js/2.69f0daa1.chunk.js.LICENSE.txt": "/APC_Landing/static/js/2.69f0daa1.chunk.js.LICENSE.txt",
+    "static/media/contact-arrow.45109640.png": "/APC_Landing/static/media/contact-arrow.45109640.png",
+    "static/media/contactRight-bottom.5c6c4412.png": "/APC_Landing/static/media/contactRight-bottom.5c6c4412.png",
+    "static/media/footer-right.1a9cf7d2.png": "/APC_Landing/static/media/footer-right.1a9cf7d2.png",
+    "static/media/home-banner.da883709.png": "/APC_Landing/static/media/home-banner.da883709.png",
+    "static/media/home-bulb.ef05e2ab.png": "/APC_Landing/static/media/home-bulb.ef05e2ab.png",
+    "static/media/home-vision.3221f05c.png": "/APC_Landing/static/media/home-vision.3221f05c.png",
+    "static/media/join-image.febe7f83.png": "/APC_Landing/static/media/join-image.febe7f83.png",
+    "static/media/portfolio-banner.3cc5def5.png": "/APC_Landing/static/media/portfolio-banner.3cc5def5.png",
+    "static/media/start-line.c7bfac14.png": "/APC_Landing/static/media/start-line.c7bfac14.png",
+    "static/media/TeamManagement.css": "/APC_Landing/static/media/team-management-bg.ebb3dbcf.png",
+    "static/media/team1.83ff8a47.png": "/APC_Landing/static/media/team1.83ff8a47.png",
+    "static/media/team2.a6a9931a.png": "/APC_Landing/static/media/team2.a6a9931a.png",
+    "static/media/team3.2cdfd118.png": "/APC_Landing/static/media/team3.2cdfd118.png",
+    "static/media/team4.f81968c1.png": "/APC_Landing/static/media/team4.f81968c1.png",
+    "static/media/team5.3457023f.png": "/APC_Landing/static/media/team5.3457023f.png",
+    "static/media/team6.09deedee.png": "/APC_Landing/static/media/team6.09deedee.png",
+    "static/media/team7.bbe28d5f.png": "/APC_Landing/static/media/team7.bbe28d5f.png",
+    "static/media/team8.4e914c87.png": "/APC_Landing/static/media/team8.4e914c87.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd98efd9.js",
+    "static/js/2.69f0daa1.chunk.js",
+    "static/css/main.ba071ee4.chunk.css",
+    "static/js/main.1fbaaa1e.chunk.js"
+  ]
+}
